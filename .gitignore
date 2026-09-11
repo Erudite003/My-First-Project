@@ -1,0 +1,9 @@
+# Generated analysis results
+output/
+results/
+
+# R session and RStudio files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
